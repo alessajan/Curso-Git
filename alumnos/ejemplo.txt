@@ -1,0 +1,5 @@
+Nombre: Ejemplo
+Edad: 20
+Carrera: Ingeniería
+Pasatiempo: Videojuegos
+Dato curioso: Me gusta aprender Git 😄
