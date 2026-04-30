@@ -1,0 +1,5 @@
+Nombre: Ximena
+Edad : 20
+Carrera: Ingeniería ISC
+Pasatiempo: Leer
+Dato Curioso: No me gustan la clase de simulación 
