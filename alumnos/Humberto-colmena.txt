@@ -1,0 +1,5 @@
+Nombre: Humberto Chavez
+Edad: 21
+Carrera: Ingeniería En Sistemas
+Pasatiempo: Videojuegos y dibujo.
+Dato curioso: Me gusta el anime.
