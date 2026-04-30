@@ -1,0 +1,4 @@
+Nombre: Juan Luis De La Fuente Moya 
+Edad: 20
+carrera: ingeniería en sistemas computacionales 
+pasatiempos: video juageos, leer mangas y manwhas leean el mejor ingeniero 
