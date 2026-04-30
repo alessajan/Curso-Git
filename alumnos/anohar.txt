@@ -1,0 +1,5 @@
+Nombre: Anohar Leonel 
+Edad: 20
+Carrera: Ingeniería en Sistemas
+Pasatiempo: Aprender cosas malas
+Dato curioso: Me gusta programar en c++.
